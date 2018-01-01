@@ -1,0 +1,66 @@
+body {
+	background: url("haircut.jpg");
+	background-size: cover;
+	background-color: black;
+}
+
+#heading-content {
+	text-align: center;
+	margin-top: 25%;
+	font-family: "Fugaz One";
+	font-weight: 800;
+}
+
+h1 {
+	color: white;
+	font-weight: 700;
+	font-size: 5em;
+}
+
+h3 {
+	color: white;
+	font-weight: 600;
+}
+
+html {
+	height: 100%;
+}
+
+hr {
+	width: 45%;
+}
+
+.fa-scissors {
+	margin-right: 5px;
+}
+
+.fa-user-plus {
+	margin-left: 5px;
+}
+
+.fa-user {
+	margin-left: 5px;
+}
+
+.navbar {
+	background-color: #1C2833;
+	margin-bottom: 0px !important;
+	border-color: #1C2833;
+	border-collapse: collapse;
+}
+
+.navbar-default .navbar-collapse {
+	border: none;
+	border-color: #1C2833;
+	margin-bottom: 0px !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+	font-family: "Bungee";
+	color: #808B96;
+}
+
+.navbar-default .navbar-brand {
+	font-family: "Bungee";
+	color: #808B96;
+}
